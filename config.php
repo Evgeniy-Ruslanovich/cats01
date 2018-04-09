@@ -15,6 +15,6 @@ define('THUMBS_DIR', IMAGE_DIR . DIRECTORY_SEPARATOR . 'thumbs');  //распо�
 define('STYLE_DIR', WWW_ROOT . DIRECTORY_SEPARATOR . 'css'); //расположение папки с файлами стилей
 
 define('SQL_HOST', 'localhost');
-define('DB_NAME', `cats`);  //данные для доступа к базе
+define('DB_NAME', '`cats2`');  //данные для доступа к базе
 define('DB_USER', 'root');
 define('DB_PASSW', '');
